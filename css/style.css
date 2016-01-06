@@ -1,0 +1,330 @@
+#marg{
+    padding-left: 0;
+}
+
+
+#row1{
+    background: #3c58a7;
+    padding-top:8%;
+    padding-bottom:10%;
+
+}
+
+#no{
+    margin-top: 2%;
+    padding-left: 0;
+}
+
+#jumbo{
+
+    background: #401F7C;
+    border-radius: 0;
+}
+
+
+
+#row2{
+    border-radius: 0;
+    padding-bottom: 5%;
+}
+
+#main-head{
+    color: #fff;
+    font-family: 'Wire One', sans-serif;
+    font-size: 5em;
+}
+
+
+#slogan{
+    color: #fff;
+    font-family: 'Wire One', sans-serif;
+    font-size: 4em;
+}
+
+#company{
+    padding:4% 8%;
+    background: #FFF;
+    color: #3c58a7;
+    font-size: 1.5em;
+
+}
+
+#services{
+    padding:4% 8%;
+    background: #FFF;
+    color: #3c58a7;
+    font-size: 1.5em;
+
+
+}
+
+#company:hover{
+    background: #401F7C;
+    text-decoration: none;
+    color:#fff;
+}
+
+#services:hover{
+    background: #401F7C;
+    text-decoration: none;
+    color:#fff;
+}
+
+#half{
+    margin-top: 4%;
+}
+
+#half1{
+    margin-top: 4%;
+
+}
+
+#contact{
+    margin-top: 4%;
+}
+
+#contact2{
+    margin: 6% 0;
+    font-size: 2em;
+}
+
+#cont{
+
+    padding:3% 6%;
+    background:#3c58a7;
+    color: #fff;
+}
+
+.pd{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1em;
+}
+
+#offer{
+    list-style-type: circle;
+    font-family: 'Lato', sans-serif;
+
+}
+
+#conting{
+    list-style-type: none;
+    font-family: 'Lato', sans-serif;
+
+}
+
+footer{
+    font-family: 'Lato', sans-serif;
+
+}
+
+.prof{
+    margin-top: 3%;
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+}
+
+#morem{
+    padding-right: 8.5%;
+}
+
+#biggg{
+    font-size: 1.3em;
+}
+
+.skills{
+    list-style-type: none;
+    margin-left: 30%;
+    text-align: left;
+}
+
+#jumbo{
+    background: #3c58a7;
+    color: #FFF;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 5%;
+}
+
+#blue{
+    background: #3c58a7;
+    padding: 5%;
+}
+
+#jumbo2{
+    background-color: #fff;
+}
+
+#ff{
+    font-family: 'Lato', sans-serif;
+    color: #000;
+
+}
+
+.whi{
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    font-size: 0.1em;
+
+}
+
+
+
+
+#float{
+    overflow: hidden;
+
+}
+
+#h{
+    font-family: 'Lato', sans-serif;
+    padding-bottom:  2%;
+}
+
+#ab{
+    font-family: 'Lato', sans-serif;
+    padding-bottom:  2%;
+}
+
+#marg{
+    padding:2% 9%;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.vid{
+    margin-left: 10%;
+}
+
+#globe{
+    font-size: 6em;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+
+}
+
+#hdd{
+    font-size: 6em;
+    text-align: center;
+    margin-left: 37%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+
+
+}
+
+#picture{
+    font-size: 6em;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+
+
+}
+
+#des{
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5em;
+    padding:7% 0;
+}
+
+#wd{
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5em;
+    padding:7% 0;
+}
+
+#ux{
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5em;
+    padding:7% 0;
+}
+
+
+#servi{
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 5%;
+
+}
+
+#example{
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 4%;
+    margin-top: 5%;
+
+}
+
+#to-co{
+    padding:1% 2%;
+    color:#3c58a7;
+    background: #fff;
+    font-size: 1.5em;
+}
+
+#to-co:hover{
+    background: #401F7C;
+    text-decoration: none;
+    color:#fff;
+}
+
+
+#back{
+    padding:1% 3%;
+    color:#3c58a7;
+    background: #fff;
+    font-size: 1.5em;
+    float: left;
+    clear: both;
+    margin-top: 2.5%;
+}
+
+#back:hover{
+    background: #401F7C;
+    text-decoration: none;
+    color:#fff;
+
+}
+
+#ho1{
+    margin-top: 1%;
+}
+
+@media screen and (max-width: 750px) {
+
+
+    #company{
+        float: right;
+    }
+
+    h1#h{
+        display: inline;
+        text-align: center;
+
+    }
+
+    #ab{
+        display: inline;
+        text-align: center;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
